@@ -1,6 +1,6 @@
 # 📈 Interactive Sales Dashboard for New Product Launch
 
-🔗 Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiMGFmNDhlMDktMjFmMC00MTlhLThhNTgtNTE3MWU4NmI2MzQwIiwidCI6IjY2MjQ1OWI0LTQ3YWUtNDc0Yi05ODkyLTczZDhhMDRjODRmMSJ9)
+🔗 Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiMTc0NTFhNDItMmU2Yy00OGNiLTk4YmMtNTg2NmI4YWI2MjAxIiwidCI6IjZlYTIxZGYzLThhYTctNDk5ZC05N2Y2LWQ1OGQxODA2MTM5MSJ9)
 
 An interactive Power BI dashboard was created to analyse the early-stage performance of a newly launched product across selected regions and customer segments. The dashboard offers insights into sales trends, product performance, and promotional impact.
 
